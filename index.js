@@ -6,7 +6,7 @@ function duskruminant(a,b,c) {
   return ((-b)-radic(duskruminant))/(2*a);
   }
   if (duskruminant=0) {
-      return ((-b)+radic(d))/(2*a);
+      return (-b)/(2*a);
   }
       else {
           retutn "no answer";
