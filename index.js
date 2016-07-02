@@ -13,7 +13,7 @@ function duskruminant(a,b,c) {
       }
   }
 }
-var a=1;
-var b=2;
-var c=3;
+var a=Number(promt ("Input a"));
+var b=Number(promt ("Input b"));
+var c=Number(promt ("Input c"));
 alert (result)
